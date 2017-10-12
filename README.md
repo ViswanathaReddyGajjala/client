@@ -36,5 +36,3 @@ python manage.py migrate
 python manage.py runserver
 on browser: localhost:8000
 ```
-##Support
-For any issue with the application, drop a message via swanjohi@lifeingis.com
